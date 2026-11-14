@@ -4,6 +4,12 @@ An experimental 3-phase motor controller designed from the ground up to explore 
 
 The project aims to develop a low-power, 24V BLDC/PMSM motor drive with a custom MOSFET-based three-phase inverter and an STM32 microcontroller.
 
+## AI Usage
+
+No AI-generated designs, schematics, PCB layouts, or firmware are used in this project. AI tools may be used exclusively for research purposes, such as understanding technical concepts, exploring documentation, and finding relevant engineering resources.
+
+All engineering decisions, hardware designs, PCB layouts, and software implementations are developed by the project author.
+
 ## Project Goals
 
 - Design a custom 3-phase MOSFET inverter.
